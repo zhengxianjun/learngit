@@ -1,0 +1,8 @@
+1.git install
+2.cd:
+3.git init
+4.config:
+	git config --global user.name:
+	git config --global user.email:
+5.create ssh:
+	ssh-keygen -t rsa -C "263661353@qq.com"
